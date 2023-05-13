@@ -32,5 +32,6 @@ main {
     width: 10rem;
     margin: 10px;
     padding: 10px;
+    color: white;
     /* border: 1px  solid red; */
 }
